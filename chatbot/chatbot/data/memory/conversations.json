@@ -1,0 +1,14 @@
+{
+  "test_user_123": [
+    {
+      "role": "user",
+      "content": "Bonjour, je veux connaître mes chances d admission. J ai fait la série S1, j ai 18 ans, je suis de sexe masculin. Mes notes sont : Maths 16, Physique 15, SVT 14, Français 13, Anglais 12, Histoire 11, Philosophie 12. Je souhaite faire la MPI.",
+      "timestamp": "2026-01-27T15:42:41.875772"
+    },
+    {
+      "role": "assistant",
+      "content": "Voici vos prédictions DIORES pour la formation L1MPI :\n\n• Probabilité d'orientation : 100.0% (très élevée)\n• Probabilité de réussite en L1 : 75.0%\n• Admission prédite : AUTORISE\n• Session prédite : Deuxième Session\n• Mention prédite : Non applicable (Deuxième Session)\n\n\nCes prédictions sont basées sur votre profil académique et les modèles DIORES V4 (Modèle utilisé: Doc3).\n\nVotre profil :\n- Série : S1\n- Âge : 18 ans\n- Sexe : M\n- Notes principales : \n  • Mathématiques : 16.0/20\n  • Sciences Physiques : 15.0/20\n  • Français : 13.0/20\n  • Anglais : 12.0/20\n  • Philosophie : 12.0/20\n\n\n\nCes résultats sont des estimations basées sur des données historiques et des modèles d'apprentissage automatique. Continuez à travailler pour maximiser vos chances de réussite !\n",
+      "timestamp": "2026-01-27T15:42:41.875833"
+    }
+  ]
+}

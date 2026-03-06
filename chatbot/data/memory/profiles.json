@@ -1,0 +1,30 @@
+{
+  "+221123456789": {
+    "formation": "L1MPI",
+    "serie": "S1",
+    "age": 18,
+    "notes": {
+      "SCPH": 15.0,
+      "FR": 13.0,
+      "AN": 12.0,
+      "HG": 11.0
+    }
+  },
+  "+33763859399": {
+    "formation": "L1PCSM"
+  },
+  "test_user_001": {
+    "serie": "S2",
+    "age": 19,
+    "notes": {
+      "MATH": 14.0,
+      "SCPH": 15.0,
+      "FR": 12.0,
+      "AN": 10.0,
+      "PHILO": 11.0,
+      "SVT": 13.0,
+      "HG": 14.0
+    },
+    "formation": "L1BCGS"
+  }
+}

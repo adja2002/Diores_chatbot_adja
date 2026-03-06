@@ -1,0 +1,4 @@
+# Dossier pour stocker les données du chatbot
+# - memory/ : Mémoire conversationnelle (JSON)
+# - chroma_db/ : Base de données vectorielle ChromaDB
+

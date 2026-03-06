@@ -1,0 +1,32 @@
+{
+  "test_user_123": {
+    "serie": "S1",
+    "notes": {
+      "MATH": 16.0,
+      "SCPH": 15.0,
+      "FR": 13.0,
+      "AN": 12.0,
+      "PHILO": 12.0,
+      "SVT": 14.0,
+      "HG": 11.0
+    },
+    "age": 18,
+    "sexe": "M",
+    "formation": "L1MPI"
+  },
+  "+33763859399": {
+    "serie": "S1",
+    "notes": {
+      "MATH": 18.0,
+      "SCPH": 17.0,
+      "FR": 15.0,
+      "AN": 14.0,
+      "PHILO": 14.0,
+      "SVT": 16.0,
+      "HG": 13.0
+    },
+    "age": 18,
+    "sexe": "M",
+    "formation": "L1MPI"
+  }
+}

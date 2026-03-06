@@ -1,0 +1,368 @@
+{
+  "+221123456789": [
+    {
+      "role": "user",
+      "content": "Bonjour",
+      "timestamp": "2026-01-06T09:27:34.861300"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître: votre série BAC (S1, S2 ou S3), votre âge, votre sexe, la formation souhaitée, votre note en Mathématiques, votre note en Sciences Physiques, votre note en Français, votre note en Anglais, votre note en Philosophie, votre note en SVT, votre note en Histoire-Géographie. Pouvez-vous me les fournir ?",
+      "timestamp": "2026-01-06T09:27:34.861314"
+    },
+    {
+      "role": "user",
+      "content": "Je veux des informations sur la licence MPI",
+      "timestamp": "2026-01-06T09:27:34.864181"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître: votre série BAC (S1, S2 ou S3), votre âge, votre sexe, votre note en Mathématiques, votre note en Sciences Physiques, votre note en Français, votre note en Anglais, votre note en Philosophie, votre note en SVT, votre note en Histoire-Géographie. Pouvez-vous me les fournir ?",
+      "timestamp": "2026-01-06T09:27:34.864209"
+    },
+    {
+      "role": "user",
+      "content": "J'ai fait la série S1",
+      "timestamp": "2026-01-06T09:27:34.865222"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître: votre âge, votre sexe, votre note en Mathématiques, votre note en Sciences Physiques, votre note en Français, votre note en Anglais, votre note en Philosophie, votre note en SVT, votre note en Histoire-Géographie. Pouvez-vous me les fournir ?",
+      "timestamp": "2026-01-06T09:27:34.865236"
+    },
+    {
+      "role": "user",
+      "content": "J'ai 18 ans",
+      "timestamp": "2026-01-06T09:27:34.866087"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître: votre sexe, votre note en Mathématiques, votre note en Sciences Physiques, votre note en Français, votre note en Anglais, votre note en Philosophie, votre note en SVT, votre note en Histoire-Géographie. Pouvez-vous me les fournir ?",
+      "timestamp": "2026-01-06T09:27:34.866098"
+    },
+    {
+      "role": "user",
+      "content": "Est-ce que je peux être admis en MPI?",
+      "timestamp": "2026-01-06T09:27:34.870489"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître: votre sexe, votre note en Mathématiques, votre note en Sciences Physiques, votre note en Français, votre note en Anglais, votre note en Philosophie, votre note en SVT, votre note en Histoire-Géographie. Pouvez-vous me les fournir ?",
+      "timestamp": "2026-01-06T09:27:34.870503"
+    },
+    {
+      "role": "user",
+      "content": "Bonjour",
+      "timestamp": "2026-01-06T09:28:34.212616"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître: votre sexe, votre note en Mathématiques, votre note en Sciences Physiques, votre note en Français, votre note en Anglais, votre note en Philosophie, votre note en SVT, votre note en Histoire-Géographie. Pouvez-vous me les fournir ?",
+      "timestamp": "2026-01-06T09:28:34.212636"
+    },
+    {
+      "role": "user",
+      "content": "Je veux des informations sur la licence MPI",
+      "timestamp": "2026-01-06T09:28:34.213561"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître: votre sexe, votre note en Mathématiques, votre note en Sciences Physiques, votre note en Français, votre note en Anglais, votre note en Philosophie, votre note en SVT, votre note en Histoire-Géographie. Pouvez-vous me les fournir ?",
+      "timestamp": "2026-01-06T09:28:34.213571"
+    },
+    {
+      "role": "user",
+      "content": "J'ai fait la série S1",
+      "timestamp": "2026-01-06T09:28:34.214327"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître: votre sexe, votre note en Mathématiques, votre note en Sciences Physiques, votre note en Français, votre note en Anglais, votre note en Philosophie, votre note en SVT, votre note en Histoire-Géographie. Pouvez-vous me les fournir ?",
+      "timestamp": "2026-01-06T09:28:34.214337"
+    },
+    {
+      "role": "user",
+      "content": "J'ai 18 ans",
+      "timestamp": "2026-01-06T09:28:34.215132"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître: votre sexe, votre note en Mathématiques, votre note en Sciences Physiques, votre note en Français, votre note en Anglais, votre note en Philosophie, votre note en SVT, votre note en Histoire-Géographie. Pouvez-vous me les fournir ?",
+      "timestamp": "2026-01-06T09:28:34.215141"
+    },
+    {
+      "role": "user",
+      "content": "Mes notes sont: Maths 16, Physique 15, SVT 14, Français 13, Anglais 12, Histoire 11",
+      "timestamp": "2026-01-06T09:28:34.216052"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître: votre sexe, votre note en Mathématiques, votre note en Philosophie, votre note en SVT. Pouvez-vous me les fournir ?",
+      "timestamp": "2026-01-06T09:28:34.216061"
+    }
+  ],
+  "+33763859399": [
+    {
+      "role": "user",
+      "content": "Quelles sont les conditions d'admission en MPI ?",
+      "timestamp": "2026-01-06T16:50:26.282999"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour être admis en **Licence MPI (Mathématiques-Physique-Informatique)** à la Faculté des Sciences et Techniques (FST) de l'UCAD, voici les conditions principales :\n\n1. **Diplôme requis** : Être titulaire d’un **baccalauréat scientifique** (série S, ou équivalent) avec de bonnes bases en mathématiques et en physique.\n2. **Niveau académique** : Les notes en mathématiques et en physique au baccalauréat sont généralement prises en compte pour l’admission. Un bon niveau dans ces matières est recommandé.\n3. **Procédure** : L’admission se fait généralement via le système **DIORES** (Dispositif d’Orientation et d’Inscription en Ligne), où tu dois postuler en ligne et fournir les documents nécessaires (relevés de notes, diplôme du baccalauréat, etc.).\n\nSi tu veux connaître tes chances personnalisées avec le système **DIORES**, je peux t’aider à compléter ton profil avec tes notes du BAC. 😊",
+      "timestamp": "2026-01-06T16:50:26.283017"
+    }
+  ],
+  "test_user_001": [
+    {
+      "role": "user",
+      "content": "Bonjour",
+      "timestamp": "2026-02-26T10:45:17.742651"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître : votre sexe. Peux-tu me le fournir ?",
+      "timestamp": "2026-02-26T10:45:17.745391"
+    },
+    {
+      "role": "user",
+      "content": "J'ai fait la série S2",
+      "timestamp": "2026-02-26T10:45:17.749475"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître : votre sexe. Peux-tu me le fournir ?",
+      "timestamp": "2026-02-26T10:45:17.753621"
+    },
+    {
+      "role": "user",
+      "content": "J'ai 19 ans",
+      "timestamp": "2026-02-26T10:45:17.759991"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître : votre sexe. Peux-tu me le fournir ?",
+      "timestamp": "2026-02-26T10:45:17.764217"
+    },
+    {
+      "role": "user",
+      "content": "Mes notes: Math 14, SCPH 15, FR 12, AN 10, PHILO 11, SVT 13, HG 14",
+      "timestamp": "2026-02-26T10:45:17.771106"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître : votre sexe. Peux-tu me le fournir ?",
+      "timestamp": "2026-02-26T10:45:17.773842"
+    },
+    {
+      "role": "user",
+      "content": "je veux avoir des informations sur licence en BCGS ",
+      "timestamp": "2026-02-26T10:45:21.571727"
+    },
+    {
+      "role": "assistant",
+      "content": "Bien sûr ! La licence en BCGS (Biologie, Chimie, Géologie et Sciences de la Terre) à l'UCAD est une formation passionnante pour ceux qui aiment les sciences naturelles et les disciplines expérimentales.\n\nVoici ce que tu dois savoir :\n- **Contenu** : Tu étudieras la biologie, la chimie, la géologie et les sciences de la Terre, avec des cours théoriques et pratiques en laboratoire.\n- **Débouchés** : Cette licence ouvre des portes vers des masters en biologie, écologie, géologie, ou même des carrières dans la recherche, l'environnement, ou l'industrie.\n- **Prérequis** : Une bonne base en sciences (surtout en SVT et chimie) est un atout.\n\nSi tu veux savoir tes chances d'admission ou de réussite, je peux t'aider avec ça aussi ! Il te suffit de me dire si tu veux une prédiction personnalisée. 😊\n\nTu veux plus de détails sur un aspect en particulier ?",
+      "timestamp": "2026-02-26T10:45:21.587751"
+    },
+    {
+      "role": "user",
+      "content": "Bonjour",
+      "timestamp": "2026-03-02T11:25:42.147158"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître : votre sexe. Peux-tu me le fournir ?",
+      "timestamp": "2026-03-02T11:25:42.150684"
+    },
+    {
+      "role": "user",
+      "content": "J'ai fait la série S2",
+      "timestamp": "2026-03-02T11:25:42.160315"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître : votre sexe. Peux-tu me le fournir ?",
+      "timestamp": "2026-03-02T11:25:42.164746"
+    },
+    {
+      "role": "user",
+      "content": "J'ai 19 ans",
+      "timestamp": "2026-03-02T11:25:42.172274"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître : votre sexe. Peux-tu me le fournir ?",
+      "timestamp": "2026-03-02T11:25:42.177286"
+    },
+    {
+      "role": "user",
+      "content": "Mes notes: Math 14, SCPH 15, FR 12, AN 10, PHILO 11, SVT 13, HG 14",
+      "timestamp": "2026-03-02T11:25:42.184708"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître : votre sexe. Peux-tu me le fournir ?",
+      "timestamp": "2026-03-02T11:25:42.190398"
+    },
+    {
+      "role": "user",
+      "content": "je veux avoir des informations sur licence en BCGS ",
+      "timestamp": "2026-03-02T11:25:44.997270"
+    },
+    {
+      "role": "assistant",
+      "content": "Bien sûr ! La licence en **BCGS (Biologie Cellulaire, Génétique et Sciences) à l'UCAD** est une formation passionnante qui te plonge dans les mystères de la vie à l'échelle microscopique. Voici ce que tu dois savoir :\n\n- **Contenu** : Tu étudieras la biologie cellulaire, la génétique, la biochimie et les biotechnologies. C'est parfait si tu aimes les sciences et que tu veux comprendre comment les gènes influencent la vie.\n- **Débouchés** : Après ta licence, tu peux continuer en master (recherche, biotechnologies, santé) ou travailler dans des labos, des entreprises pharmaceutiques, ou même dans l'enseignement.\n- **Prérequis** : Comme tu es en série S2, tu as un bon bagage scientifique. Les matières comme les maths, les sciences physiques et la SVT te seront utiles.\n\nSi tu veux savoir **tes chances d'admission et de réussite** dans cette filière, je peux utiliser le système DIORES pour te donner une estimation précise. Dis-moi juste si tu veux que je fasse cette simulation !\n\nEt sinon, tu as d'autres questions sur les autres filières (MPI, PCSM) ou sur d'autres universités ? 😊",
+      "timestamp": "2026-03-02T11:25:45.007573"
+    },
+    {
+      "role": "user",
+      "content": "Bonjour",
+      "timestamp": "2026-03-03T15:20:53.725499"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître : votre sexe. Peux-tu me le fournir ?",
+      "timestamp": "2026-03-03T15:20:53.725499"
+    },
+    {
+      "role": "user",
+      "content": "J'ai fait la série S2",
+      "timestamp": "2026-03-03T15:20:53.737822"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître : votre sexe. Peux-tu me le fournir ?",
+      "timestamp": "2026-03-03T15:20:53.741016"
+    },
+    {
+      "role": "user",
+      "content": "J'ai 19 ans",
+      "timestamp": "2026-03-03T15:20:53.746913"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître : votre sexe. Peux-tu me le fournir ?",
+      "timestamp": "2026-03-03T15:20:53.749382"
+    },
+    {
+      "role": "user",
+      "content": "Mes notes: Math 14, SCPH 15, FR 12, AN 10, PHILO 11, SVT 13, HG 14",
+      "timestamp": "2026-03-03T15:20:53.754587"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître : votre sexe. Peux-tu me le fournir ?",
+      "timestamp": "2026-03-03T15:20:53.754587"
+    },
+    {
+      "role": "user",
+      "content": "je veux avoir des informations sur licence en BCGS ",
+      "timestamp": "2026-03-03T15:21:14.297988"
+    },
+    {
+      "role": "assistant",
+      "content": "Désolé, une erreur s'est produite. Pouvez-vous reformuler votre question ?",
+      "timestamp": "2026-03-03T15:21:14.297988"
+    },
+    {
+      "role": "user",
+      "content": "Bonjour",
+      "timestamp": "2026-03-03T15:50:07.815099"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître : votre sexe. Peux-tu me le fournir ?",
+      "timestamp": "2026-03-03T15:50:07.818486"
+    },
+    {
+      "role": "user",
+      "content": "J'ai fait la série S2",
+      "timestamp": "2026-03-03T15:50:07.822278"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître : votre sexe. Peux-tu me le fournir ?",
+      "timestamp": "2026-03-03T15:50:07.824929"
+    },
+    {
+      "role": "user",
+      "content": "J'ai 19 ans",
+      "timestamp": "2026-03-03T15:50:07.830704"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître : votre sexe. Peux-tu me le fournir ?",
+      "timestamp": "2026-03-03T15:50:07.832464"
+    },
+    {
+      "role": "user",
+      "content": "Mes notes: Math 14, SCPH 15, FR 12, AN 10, PHILO 11, SVT 13, HG 14",
+      "timestamp": "2026-03-03T15:50:07.838935"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître : votre sexe. Peux-tu me le fournir ?",
+      "timestamp": "2026-03-03T15:50:07.841985"
+    },
+    {
+      "role": "user",
+      "content": "je veux avoir des informations sur licence en BCGS ",
+      "timestamp": "2026-03-03T15:50:16.835435"
+    },
+    {
+      "role": "assistant",
+      "content": "**Réponse :**\n\nAh, la licence en BCGS (Biologie, Chimie, Géologie et Sciences de la Terre) ! Une formation passionnante pour ceux qui aiment explorer les mystères de la nature et de la planète. 🌍🔬\n\nVoici ce que tu dois savoir :\n- **Contenu** : Tu étudieras la biologie, la chimie, la géologie et les sciences de la Terre. C’est idéal si tu aimes les sciences naturelles et les sciences expérimentales.\n- **Débouchés** : Après la licence, tu peux poursuivre en master (recherche, environnement, géologie, etc.) ou travailler dans des domaines comme l’écologie, la gestion des ressources naturelles ou la recherche scientifique.\n- **Conditions d’admission** : À l’UCAD, la sélection se fait souvent sur dossier (notes de bac, surtout en SVT, Maths et Physique-Chimie).\n\nTu veux savoir si tu as tes chances d’être admis ? 😊 Si oui, je peux te donner une estimation précise avec le système DIORES, mais il me manque quelques infos (ton sexe, par exemple). Sinon, je peux te donner des conseils généraux pour maximiser tes chances !\n\nD’ailleurs, avec tes notes, tu as déjà un bon profil pour cette filière. 👏",
+      "timestamp": "2026-03-03T15:50:16.851258"
+    },
+    {
+      "role": "user",
+      "content": "Bonjour",
+      "timestamp": "2026-03-03T15:52:00.179970"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître : votre sexe. Peux-tu me le fournir ?",
+      "timestamp": "2026-03-03T15:52:00.179970"
+    },
+    {
+      "role": "user",
+      "content": "J'ai fait la série S2",
+      "timestamp": "2026-03-03T15:52:00.192465"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître : votre sexe. Peux-tu me le fournir ?",
+      "timestamp": "2026-03-03T15:52:00.194339"
+    },
+    {
+      "role": "user",
+      "content": "J'ai 19 ans",
+      "timestamp": "2026-03-03T15:52:00.201309"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître : votre sexe. Peux-tu me le fournir ?",
+      "timestamp": "2026-03-03T15:52:00.203526"
+    },
+    {
+      "role": "user",
+      "content": "Mes notes: Math 14, SCPH 15, FR 12, AN 10, PHILO 11, SVT 13, HG 14",
+      "timestamp": "2026-03-03T15:52:00.208701"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître : votre sexe. Peux-tu me le fournir ?",
+      "timestamp": "2026-03-03T15:52:00.210261"
+    },
+    {
+      "role": "user",
+      "content": "je veux avoir des informations sur les formations en fst ",
+      "timestamp": "2026-03-03T15:52:03.360454"
+    },
+    {
+      "role": "assistant",
+      "content": "Bien sûr ! Je peux t’aider à en savoir plus sur les formations en FST (Faculté des Sciences et Technologies) de l’UCAD. Voici un aperçu des principales formations proposées :\n\n1. **MPI (Mathématiques et Informatique)** : Parfait pour ceux qui aiment les maths et l’informatique. Tu apprendras des bases solides en algorithmique, programmation et mathématiques appliquées.\n\n2. **BCGS (Biologie, Chimie, Géologie et Sciences de la Terre)** : Idéal si tu es passionné par les sciences de la vie, la chimie ou la géologie. Tu étudieras la biologie moléculaire, la géologie, la chimie organique, etc.\n\n3. **PCSM (Physique, Chimie et Sciences des Matériaux)** : Pour ceux qui aiment la physique et la chimie. Tu exploreras les matériaux avancés, la physique quantique, la chimie des polymères, etc.\n\nChaque formation a ses spécificités, mais toutes te prépareront à des carrières dans la recherche, l’industrie ou l’enseignement.\n\nTu veux des détails sur une formation en particulier ? Ou peut-être que tu veux savoir quelles sont tes chances d’être admis dans l’une d’elles ? 😊",
+      "timestamp": "2026-03-03T15:52:03.376381"
+    }
+  ]
+}

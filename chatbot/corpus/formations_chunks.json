@@ -1,0 +1,540 @@
+[
+    {
+      "id": "chunk_general_historique_creation",
+      "text": "La Faculté des Sciences et Techniques (FST) de l’Université Cheikh Anta Diop de Dakar a été créée en 1957 et est devenue officiellement faculté en 1990. Installée sur le campus de Dakar-Fann, elle s'est rapidement imposée comme le principal pôle de formation et de recherche en sciences exactes et appliquées au Sénégal et en Afrique de l’Ouest francophone.",
+      "metadata": {
+        "formation": "general",
+        "section": "historique",
+        "universite": "UCAD_FST"
+      }
+    },
+    {
+      "id": "chunk_general_infrastructure",
+      "text": "La FST dispose de trois amphithéâtres de 500 places, deux de 150 places, un de 200 places, deux de 100 places, 36 salles de TD, 28 salles de TP, une bibliothèque et une plateforme d’enseignement à distance[](https://fad.fst.ucad.sn/).",
+      "metadata": {
+        "formation": "general",
+        "section": "infrastructure",
+        "universite": "UCAD_FST"
+      }
+    },
+    {
+      "id": "chunk_general_departements",
+      "text": "La FST compte six départements : Mathématiques-Informatique, Physique, Chimie, Biologie Animale, Biologie Végétale, Géologie.",
+      "metadata": {
+        "formation": "general",
+        "section": "departements",
+        "universite": "UCAD_FST"
+      }
+    },
+    {
+      "id": "chunk_general_localisation",
+      "text": "Localisation : Campus universitaire de Dakar-Fann, Dakar, Sénégal. Adresse : Université Cheikh Anta Diop de Dakar (UCAD), Faculté des Sciences et Techniques, Campus de Dakar-Fann, BP 5005, Dakar – Sénégal.",
+      "metadata": {
+        "formation": "general",
+        "section": "localisation",
+        "universite": "UCAD_FST"
+      }
+    },
+    {
+      "id": "chunk_general_systeme_lmd",
+      "text": "Adopté en 2007 à la FST, le système LMD structure la formation en Licence (Bac+3, 180 ECTS), Master (Bac+5, 120 ECTS supplémentaires), Doctorat (Bac+8). Chaque semestre = 30 ECTS. Favorise mobilité internationale et insertion professionnelle.",
+      "metadata": {
+        "formation": "general",
+        "section": "lmd",
+        "universite": "UCAD_FST"
+      }
+    },
+    {
+      "id": "chunk_general_offre_formation",
+      "text": "La FST propose trois licences en présentiel : MPI, PCSM, BCGS (180 ECTS sur 3 ans). Plus de 20 mentions de Master dans des domaines stratégiques (biotechnologies, géophysique, énergie renouvelable, IA, chimie analytique, physique des matériaux, gestion environnement). Formations professionnalisantes courtes et masters pros. Partenariats internationaux (France, USA, Canada, Maroc). Rôle central dans énergie, mines, télécoms, santé, environnement, numérique.",
+      "metadata": {
+        "formation": "general",
+        "section": "offre_formation",
+        "universite": "UCAD_FST"
+      }
+    },
+    {
+      "id": "chunk_mpi_presentation",
+      "text": "Licence Mathématiques-Physique-Informatique (MPI) : formation fondamentale de 3 ans, tronc commun sciences exactes. Combine mathématiques, physique, informatique. Accent sur modélisation mathématique, phénomènes physiques, algorithmes. Équilibre théorie/pratique (CM, TD, TP labo, programmation intensive). 180 ECTS sur 6 semestres.",
+      "metadata": {
+        "formation": "MPI",
+        "section": "presentation"
+      }
+    },
+    {
+      "id": "chunk_mpi_admission",
+      "text": "Admission via Campusen (Sénégalais) ou préinscription en ligne (étrangers : bulletins seconde à terminale, attestation bac, relevé notes, PI). Séries idéales : S1 (idéal), S3. S2 acceptée si notes élevées maths/physique. Seuil compétitif : mention Bien (≥14/20), ≥15/20 maths, ≥14/20 physique-chimie, moyenne sciences ≥13/20.",
+      "metadata": {
+        "formation": "MPI",
+        "section": "admission"
+      }
+    },
+    {
+      "id": "chunk_mpi_semestre1",
+      "text": "Semestre 1 MPI : algèbre et analyse, mécanique du point matériel, programmation C, outils mathématiques appliqués à la physique, électricité (circuits base).",
+      "metadata": {
+        "formation": "MPI",
+        "section": "semestre1"
+      }
+    },
+    {
+      "id": "chunk_mpi_semestre2",
+      "text": "Semestre 2 MPI : analyse et algèbre linéaire avancées, thermodynamique, programmation orientée objet, ondes et optique, probabilités.",
+      "metadata": {
+        "formation": "MPI",
+        "section": "semestre2"
+      }
+    },
+    {
+      "id": "chunk_mpi_semestre3",
+      "text": "Semestre 3 MPI : équations différentielles et séries, mécanique analytique, structures de données avancées, électromagnétisme, analyse numérique.",
+      "metadata": {
+        "formation": "MPI",
+        "section": "semestre3"
+      }
+    },
+    {
+      "id": "chunk_mpi_semestre4",
+      "text": "Semestre 4 MPI : algèbre linéaire avancée, physique quantique intro, bases de données SQL, mécanique analytique 2, statistique inférentielle.",
+      "metadata": {
+        "formation": "MPI",
+        "section": "semestre4"
+      }
+    },
+    {
+      "id": "chunk_mpi_semestre5",
+      "text": "Semestre 5 MPI : analyse fonctionnelle, physique statistique, apprentissage automatique, réseaux et algorithmes de graphes, calcul scientifique (MATLAB/Octave).",
+      "metadata": {
+        "formation": "MPI",
+        "section": "semestre5"
+      }
+    },
+    {
+      "id": "chunk_mpi_semestre6",
+      "text": "Semestre 6 MPI : optimisation et recherche opérationnelle, physique avancée (particules/astrophysique), développement logiciel avancé, projet, stage 6-12 semaines, mémoire et soutenance.",
+      "metadata": {
+        "formation": "MPI",
+        "section": "semestre6"
+      }
+    },
+    {
+      "id": "chunk_mpi_poursuites_masters",
+      "text": "Poursuites MPI : 75-85% en Master UCAD (Mathématiques Appliquées, Physique Fondamentale/Appliquée, Informatique et TI, Data Science, Génie Logiciel). Écoles d’ingénieurs : ENSA Thiès, ESP Dakar, 2iE Ouagadougou.",
+      "metadata": {
+        "formation": "MPI",
+        "section": "poursuites_masters"
+      }
+    },
+    {
+      "id": "chunk_mpi_debouches_metiers",
+      "text": "Débouchés immédiats MPI : analyste programmeur/développeur junior, assistant ingénieur physique (énergie/télécoms), modélisateur mathématique (banques/assurances), enseignant maths/physique (après CAPES).",
+      "metadata": {
+        "formation": "MPI",
+        "section": "debouches_metiers"
+      }
+    },
+    {
+      "id": "chunk_mpi_debouches_secteurs_salaires",
+      "text": "Secteurs MPI : TI (SONATEL, startups), recherche appliquée (IRD, CNRS), industrie électronique/énergies renouvelables, finance quantitative. Salaires entrée : 250 000 – 450 000 FCFA/mois.",
+      "metadata": {
+        "formation": "MPI",
+        "section": "debouches_secteurs"
+      }
+    },
+    {
+      "id": "chunk_mpi_taux_reussite",
+      "text": "Taux réussite MPI (fil sci FST) : ~45-50% sur 3 ans (2019-2022). L1 ~40%, abandons L1 50-60% (abstraction maths/programmation). Redoublants L1 >80% réussite finale. Effectif ~200-300/an.",
+      "metadata": {
+        "formation": "MPI",
+        "section": "taux_reussite"
+      }
+    },
+    {
+      "id": "chunk_pcsm_presentation",
+      "text": "Licence PCSM : formation fondamentale 3 ans, orientée sciences de la matière. Combine physique fondamentale, chimie générale/organique, mécanique, thermodynamique, électromagnétisme, chimie quantique. >300h TP expérimentaux, très exigeante maths.",
+      "metadata": {
+        "formation": "PCSM",
+        "section": "presentation"
+      }
+    },
+    {
+      "id": "chunk_pcsm_admission",
+      "text": "Admission PCSM : la plus sélective. Séries S1/S3 idéales. S2 rare. Mention Bien/Très Bien (≥14-15/20), ≥15/20 maths, ≥14/20 physique-chimie, moyenne sci ≥14/20. <13/20 quasi impossible.",
+      "metadata": {
+        "formation": "PCSM",
+        "section": "admission"
+      }
+    },
+    {
+      "id": "chunk_pcsm_semestre1_2",
+      "text": "S1-S2 PCSM : maths appliquées phys/chimie, mécanique point/systèmes, structure matière/chimie générale, thermodynamique chimique/physique, TP chimie, électromagnétisme, chimie organique, mécanique fluides/ondes, chimie solutions.",
+      "metadata": {
+        "formation": "PCSM",
+        "section": "semestres1_2"
+      }
+    },
+    {
+      "id": "chunk_pcsm_semestre3_4",
+      "text": "S3-S4 PCSM : mécanique analytique, chimie organique/inorganique, optique physique, chimie quantique/mécanique quantique, électrocinétique/électronique, thermodynamique statistique, spectroscopie, chimie analytique instrumentale, TP avancés/synthèses.",
+      "metadata": {
+        "formation": "PCSM",
+        "section": "semestres3_4"
+      }
+    },
+    {
+      "id": "chunk_pcsm_semestre5_6",
+      "text": "S5-S6 PCSM : sciences matériaux, cinétique/catalyse, électrodynamique, chimie physique surfaces, nanotechnologies, énergies renouvelables/stockage, chimie verte/procédés durables, physique nucléaire/radioprotection, contrôle qualité, projet expérimental, stage industrie 8-12 semaines, mémoire.",
+      "metadata": {
+        "formation": "PCSM",
+        "section": "semestres5_6"
+      }
+    },
+    {
+      "id": "chunk_pcsm_poursuites",
+      "text": "Poursuites PCSM : 80-90% Master (Physique Fond/Appl, Chimie org/anal/phys, Sciences Matériaux, Énergie/DD, Génie Procédés). Écoles : ENSA Thiès, ESP, École Centrale France, etc.",
+      "metadata": {
+        "formation": "PCSM",
+        "section": "poursuites"
+      }
+    },
+    {
+      "id": "chunk_pcsm_debouches",
+      "text": "Débouchés PCSM : technicien contrôle qualité (chimie/pétrole), laborantin (SAR, pharma), assistant ingénieur énergie (SENELEC, pétro-gaz), enseignant phys-chimie (CAPES). Secteurs : énergie, industrie chimie/pharma, mines, recherche. Salaires : 300 000 – 500 000 FCFA/mois.",
+      "metadata": {
+        "formation": "PCSM",
+        "section": "debouches"
+      }
+    },
+    {
+      "id": "chunk_pcsm_taux_reussite",
+      "text": "Taux PCSM : la plus difficile. L1 ~30-40%, global ~40-48% (2020-2024). Validant L1 >80% diplôme. Effectif limité 150-180.",
+      "metadata": {
+        "formation": "PCSM",
+        "section": "taux_reussite"
+      }
+    },
+    {
+      "id": "chunk_bcgs_presentation",
+      "text": "Licence BCGS : multidisciplinaire 3 ans, accent sciences vie/Terre/matière. TP intensifs, sorties terrain, projets. Polyvalente/appliquée.",
+      "metadata": {
+        "formation": "BCGS",
+        "section": "presentation"
+      }
+    },
+    {
+      "id": "chunk_bcgs_admission",
+      "text": "Admission BCGS : séries S2 (idéal), S1, S2A. T/S3 possibles si solides maths/sci. Mention Assez Bien (≥12/20), ≥13/20 maths, ≥12/20 phys-chimie/SVT.",
+      "metadata": {
+        "formation": "BCGS",
+        "section": "admission"
+      }
+    },
+    {
+      "id": "chunk_bcgs_semestre1_2",
+      "text": "S1-S2 BCGS : maths/informatique appliquées, physique générale, chimie générale/organique, biologie cellulaire animale/végétale, génétique/moléculaire intro, géodynamique interne/externe, biologie organismes, outils stats.",
+      "metadata": {
+        "formation": "BCGS",
+        "section": "semestres1_2"
+      }
+    },
+    {
+      "id": "chunk_bcgs_semestre3_4",
+      "text": "S3-S4 BCGS : génétique/moléculaire approfondie, chimie organique/analytique, géologie structurale, biologie organismes, écologie générale/appliquée, biophysique, physiologie animale, paléontologie/stratigraphie, microbiologie, TP intégrés.",
+      "metadata": {
+        "formation": "BCGS",
+        "section": "semestres3_4"
+      }
+    },
+    {
+      "id": "chunk_bcgs_semestre5_6",
+      "text": "S5-S6 BCGS : physiologie végétale, génétique populations, géochimie/hydrogéologie, biotechnologies, immunologie, projet recherche, géosciences environnement, biologie moléculaire avancée, écotoxicologie, gestion ressources naturelles, stage terrain 4-8 semaines, mémoire.",
+      "metadata": {
+        "formation": "BCGS",
+        "section": "semestres5_6"
+      }
+    },
+    {
+      "id": "chunk_bcgs_poursuites",
+      "text": "Poursuites BCGS : 70-80% Master UCAD (Biologie Animale/Végétale, Géologie, CB2A, santé, Bioinformatique-Biomathématiques via https://admission.ucad.sn). Écoles ingénieurs (ENSA, ESP) ou formations environnement.",
+      "metadata": {
+        "formation": "BCGS",
+        "section": "poursuites"
+      }
+    },
+    {
+      "id": "chunk_bcgs_debouches",
+      "text": "Débouchés BCGS : technicien labo bio/chimie, assistant géosciences, chargé études environnementales, enseignant SVT (CAPES). Secteurs : recherche (IRD, ISRA), pharma/cosmétiques, agriculture, bureaux géo/enviro, santé publique, ONG. Salaires : 200 000 – 400 000 FCFA/mois.",
+      "metadata": {
+        "formation": "BCGS",
+        "section": "debouches"
+      }
+    },
+    {
+      "id": "chunk_bcgs_taux_reussite",
+      "text": "Taux BCGS : global UCAD ~44% (2018-2019), rétention FST légèrement supérieure. Données récentes : consulter direction FST.",
+      "metadata": {
+        "formation": "BCGS",
+        "section": "taux_reussite"
+      }
+    },
+    {
+      "id": "chunk_general_systeme_senegalais",
+      "text": "Système supérieur Sénégal : langue française, LMD. 8 universités publiques, 7 privées. >240 000 étudiants, >15 000 internationaux. Frais publics bas (25 000 FCFA/an licence). Diplômes : comparabilité ENIC-NARIC France.",
+      "metadata": {
+        "formation": "general",
+        "section": "systeme_senegal"
+      }
+    },
+    {
+      "id": "chunk_general_ucad_structure",
+      "text": "UCAD : fondée 1957, 6 facultés (dont FST), 4 écoles (CESTI, ESP, EBAD, ENSETP), 12 instituts (CLAD, CERER, IPDSR, IFEE, IPS, IREMPT, ISED, IST, ISE, IFAN, INSEPS, IUPA).",
+      "metadata": {
+        "formation": "general",
+        "section": "ucad_structure"
+      }
+    },
+    {
+      "id": "chunk_general_autres_universites",
+      "text": "Autres universités publiques : UGB Saint-Louis, UIDT Thiès, UADB Bambey, UASZ Ziguinchor, USSEIN Kaolack, UN-CHK numérique, UAM Diamniadio.",
+      "metadata": {
+        "formation": "general",
+        "section": "autres_unis"
+      }
+    },
+    {
+        "id": "chunk_ugb_presentation_formations",
+        "text": "Université Gaston Berger (UGB) de Saint-Louis, fondée en 1990. 8 UFR : Lettres et Sciences Humaines (LSH), Sciences Appliquées et Technologies (SAT : maths, informatique, physique, chimie), Sciences Économiques et Gestion (SEG), Sciences Juridiques et Politiques (SJP), Sciences Agronomiques Aquaculture et Technologies Alimentaires (S2ATA), Sciences de la Santé (2S : médecine, infirmiers), Sciences de l'Éducation Formation et Sport (SEFS), Civilisations Religions Arts et Communication (CRAC). Formations LMD, licences et masters en sciences agronomiques, santé (ex. DES Chirurgie Générale 2025), éducation à distance, biotechnologies, énergies renouvelables.",
+        "metadata": {
+          "formation": "general",
+          "section": "ugb",
+          "universite": "UGB Saint-Louis"
+        }
+      },
+      {
+        "id": "chunk_uidt_presentation_formations",
+        "text": "Université Iba Der Thiam de Thiès (UIDT), créée en 2007, orientation STEM (Sciences, Technologie, Ingénierie, Mathématiques). Composantes : École Nationale Supérieure d'Agriculture (ENSA : ingénieurs agronomes), UFR Sciences Économiques et Sociales, UFR Sciences et Technologies (ingénierie, recherches appliquées), UFR Sciences de la Santé (médecine, pharmacie), UFR Sciences de l'Ingénieur (génie civil, électrique, mécanique), Institut Universitaire de Technologie (IUT : formations techniques courtes). Plus de 70 programmes (38 licences, 32 masters). Focus développement durable, data science, topographie.",
+        "metadata": {
+          "formation": "general",
+          "section": "uidt",
+          "universite": "UIDT Thiès"
+        }
+      },
+      {
+        "id": "chunk_uadb_presentation_formations",
+        "text": "Université Alioune Diop de Bambey (UADB), fondée en 2007, spécialisation agriculture et développement rural. UFR : Économie-Management et Ingénierie Juridique, Institut Supérieur de Formation Agricole et Rurale (ISFAR), Santé et Développement Durable, Sciences Appliquées et Technologies de l'Information et Communication (SATIC : informatique, télécoms). Masters en Statistique et Informatique Décisionnelle, Gestion Marchés Publics, Gestion de Projet. Orientation métiers agricoles et numériques.",
+        "metadata": {
+          "formation": "general",
+          "section": "uadb",
+          "universite": "UADB Bambey"
+        }
+      },
+      {
+        "id": "chunk_uasz_presentation_formations",
+        "text": "Université Assane Seck de Ziguinchor (UASZ), créée en 2007, mission développement Sud (Casamance). 4 UFR principales : Sciences et Technologies (maths, informatique, physique, chimie, agroforesterie), Sciences Économiques et Sociales, Sciences de la Santé (médecine, pharmacie, infirmiers), Lettres Arts et Sciences Humaines. Formations à distance (FOAD), masters en Agroécologie Tropicale, Évaluation Impact Politiques. Focus technologies régionales et culture casamançaise.",
+        "metadata": {
+          "formation": "general",
+          "section": "uasz",
+          "universite": "UASZ Ziguinchor"
+        }
+      },
+      {
+        "id": "chunk_ussein_presentation_formations",
+        "text": "Université Sine Saloum El Hadj Ibrahima Niasse (USSEIN), à Kaolack, spécialisation agriculture et agroalimentaire. 11 UFR couvrant agronomie, production végétale, élevage, ressources halieutiques/pêche/aquaculture, hydraulique/génie rural/énergies renouvelables, environnement/biodiversité, sciences et techniques alimentaires, nutrition/alimentation. Formations professionnalisantes licence/master en transition agroécologique, durabilité systèmes alimentaires, gestion risques climatiques agricoles.",
+        "metadata": {
+          "formation": "general",
+          "section": "ussein",
+          "universite": "USSEIN Kaolack"
+        }
+      },
+      {
+        "id": "chunk_unchk_presentation_formations",
+        "text": "Université Numérique Cheikh Hamidou Kane (UN-CHK), ex-UVS, créée en 2013, première université numérique publique Sénégal. Formations à distance. 3 pôles : Lettres Sciences Humaines Éducation, Sciences Économiques Juridiques Administration, Sciences Technologies Numérique (informatique, maths, technologies numériques). 19 licences, 26 masters, école doctorale pluridisciplinaire. Plus de 73 000 étudiants, focus métiers numérique et e-learning.",
+        "metadata": {
+          "formation": "general",
+          "section": "unchk",
+          "universite": "UN-CHK Numérique"
+        }
+      },
+      {
+        "id": "chunk_uam_presentation_formations",
+        "text": "Université Amadou Mahtar Mbow (UAM) de Diamniadio, inaugurée 2022, la plus récente. Orientation moderne : Polytech Diamniadio (ingénierie : architecture, urbanisme, génie civil/électrique/mécanique, informatique), TECHNA (technologies appliquées), UFR Sciences Économiques Gestion, UFR Sciences Technologies Applications (recherche tech pointe), École Supérieure Mines Géologie Environnement (ESMGE). Formations professionnalisantes, innovation, développement urbain.",
+        "metadata": {
+          "formation": "general",
+          "section": "uam",
+          "universite": "UAM Diamniadio"
+        }
+    },
+    {
+        "id": "chunk_universites_privees_intro",
+        "text": "Le secteur privé de l'enseignement supérieur au Sénégal compte plus de 300 établissements en 2025, mais seulement une partie est pleinement accréditée par l'ANAQ-Sup ou a des diplômes reconnus par le CAMES. Les universités privées sont concentrées à Dakar, avec des frais annuels élevés (400 000 à 1 500 000 FCFA). Principales reconnues : UAHB, UDB, Université du Sahel, ESTM (focus tech/IA), et unités UCAO. Vérifier toujours l'accréditation des programmes spécifiques auprès du MESRI ou ANAQ-Sup.",
+        "metadata": {
+          "formation": "general",
+          "section": "universites_privees_intro"
+        }
+      },
+      {
+        "id": "chunk_uahb_privee",
+        "text": "Université Amadou Hampaté Bâ (UAHB, Dakar) : privée laïque agréée définitivement par l'État (2008), nombreux diplômes reconnus CAMES. 5 facultés : Lettres/Sciences Humaines, Sciences Juridiques/Politiques, Sciences Économiques/Gestion, Sciences/Technologies (informatique, réseaux), Sciences de la Santé (médecine, santé publique). Focus innovation pédagogique, insertion professionnelle, recherche. Adresse : Rocade Fann-Bel Air.",
+        "metadata": {
+          "formation": "general",
+          "section": "uahb_privee",
+          "universite": "UAHB Dakar (privée)"
+        }
+      },
+      {
+        "id": "chunk_udb_privee",
+        "text": "Université Dakar Bourguiba (UDB, Dakar) : première université privée du Sénégal (1995), laïque. Formations multidisciplinaires professionnalisées (gestion, droit, informatique, sciences). Sessions multiples (hiver/printemps/été). Focus proximité, convivialité, civisme. Diplômes reconnus par l'État.",
+        "metadata": {
+          "formation": "general",
+          "section": "udb_privee",
+          "universite": "UDB Dakar (privée)"
+        }
+      },
+      {
+        "id": "chunk_unis_sahel_privee",
+        "text": "Université du Sahel (UNIS, Dakar-Mermoz) : fondée 1998, reconnue par l'État et membre CAMES (plusieurs diplômes accrédités). 5 facultés : Sciences/Technologies, Économiques/Gestion, Juridiques/Politiques, Humaines/Sociales, Langues/Lettres. Formations en ingénierie, management, droit. Focus excellence et innovation africaine.",
+        "metadata": {
+          "formation": "general",
+          "section": "unis_sahel_privee",
+          "universite": "Université du Sahel (privée)"
+        }
+      },
+      {
+        "id": "chunk_ucao_privee",
+        "text": "Université Catholique de l'Afrique de l'Ouest (UCAO) : réseau régional (unités dans 7 pays ouest-africains, dont Sénégal via ISG Saint Michel à Dakar). Confessionnelle, diplômes reconnus CAMES pour plusieurs programmes. Formations en gestion, droit, sciences humaines, développement. Focus valeurs chrétiennes, éthique, développement intégral.",
+        "metadata": {
+          "formation": "general",
+          "section": "ucao_privee",
+          "universite": "UCAO (privée, réseau régional)"
+        }
+      },
+      {
+        "id": "chunk_estm_privee",
+        "text": "École Supérieure de Technologie et Management (ESTM, Dakar) : privée, spécialisée ingénieurs/management. Formations : Génie Électrique/Énergies Renouvelables, Génie Logiciel/Réseaux, Informatique/Multimédia, Sécurité Infos, Applications Mobiles, IA/IoT, Monétique, Management/Communication. À la pointe des technologies, focus insertion professionnelle.",
+        "metadata": {
+          "formation": "general",
+          "section": "estm_privee",
+          "universite": "ESTM Dakar (privée)"
+        }
+      },
+      {
+        "id": "chunk_autres_etablissements",
+        "text": "Autres établissements spécialisés : École Polytechnique de Thiès (EPT, publique) : grande école d'ingénieurs (5 ans après concours, bacheliers S). Filières : Génie Civil, Électromécanique (incl. aéronautique), Informatique/Télécoms, Industriel. Accréditée CTI (française) récemment, focus recherche/innovation. Divers instituts publics (sous MESRI) : formations techniques courtes/spécialisées (agriculture, mines, etc.).",
+        "metadata": {
+          "formation": "general",
+          "section": "autres_etablissements"
+        }
+    },
+    {
+        "id": "chunk_orientation_medecine",
+        "text": "Orientation Médecine Sénégal 2025-2026 : UCAD-FMPOS reste la référence historique et la plus reconnue (reputation excellence, plus de places). Alternatives régionales : UGB-2S (Saint-Louis, équipements modernes, cadre historique), UIDT-Sciences de la Santé (Thiès), UASZ-Sciences de la Santé (Ziguinchor, Sud), UADB-Santé et Développement Durable (Bambey, approche innovante environnement/santé). Admission très sélective (moyenne bac souvent >16/20, séries S). Stages hospitaliers obligatoires, insertion pro élevée (médecins, pharmaciens). Vérifier places via Campusen.",
+        "metadata": {
+          "formation": "general",
+          "section": "orientation_medecine"
+        }
+      },
+      {
+        "id": "chunk_orientation_agriculture",
+        "text": "Orientation Agriculture/Agronomie 2025-2026 : USSEIN (Kaolack) leader spécialisation complète (11 UFR : agronomie, élevage, aquaculture, énergies renouvelables, agroalimentaire). UIDT-ENSA (Thiès) : formation ingénieurs agronomes haut niveau (concours entrée, excellence recherche). UADB-ISFAR (Bambey) : focus formation agricole/rurale pratique. UGB-S2ATA (Saint-Louis) : moderne, aquaculture intégrée. Secteur porteur (agroécologie, sécurité alimentaire). Stages terrain obligatoires, bonne insertion (entreprises agricoles, ONG, administration).",
+        "metadata": {
+          "formation": "general",
+          "section": "orientation_agriculture"
+        }
+      },
+      {
+        "id": "chunk_orientation_sciences_tech",
+        "text": "Orientation Sciences/Technologies 2025-2026 : UCAD-FST référence historique/complète (MPI, PCSM, BCGS, masters IA/biotech). UGB-SAT (Saint-Louis) : formation moderne, équipements récents. UAM-STA (Diamniadio) : nouvelles technologies, innovation (ingénierie, numérique). UN-CHK : enseignement à distance, focus numérique/informatique. Stages/projets obligatoires en L3/Master, partenariats entreprises (télécoms, énergie). Insertion pro forte (IT, recherche, industrie).",
+        "metadata": {
+          "formation": "general",
+          "section": "orientation_sciences_tech"
+        }
+      },
+      {
+        "id": "chunk_orientation_economie_gestion",
+        "text": "Orientation Économie/Gestion : Toutes universités proposent (UCAD-FASEG référence historique), UGB-SEG excellence académique, UIDT appliquée (développement socio-éco), UAM-SEG moderne/innovation. Masters finance, management, économie développement. Bonne insertion (banques, entreprises, administration). Stages recommandés.",
+        "metadata": {
+          "formation": "general",
+          "section": "orientation_economie"
+        }
+      },
+      {
+        "id": "chunk_orientation_procedure_campusen",
+        "text": "Procédure Orientation 2025-2026 : Plateforme Campusen (orientation.campusen.sn) obligatoire pour publics. Créer compte avec NIN bac, obtenir INE, formuler 18 choix universités (répartis 8 unis) + choix ISEP. Ordre préférence crucial. Période typique mai-août (vérifier annonces MESRI). Choix diversifiés pour maximiser chances. PDF confirmation obligatoire.",
+        "metadata": {
+          "formation": "general",
+          "section": "procedure_campusen"
+        }
+      },
+      {
+        "id": "chunk_orientation_criteres_choix",
+        "text": "Critères Choix Établissement : 1. Localisation (proximité famille, coût vie). 2. Spécialisation/reputation filière. 3. Infrastructure/équipements (labs, bibliothèques). 4. Opportunités stages/partenariats entreprises (insertion pro). 5. Taux réussite/employabilité diplômés. 6. Bourses/aides (COUD logement/RU). 7. Vie étudiante (campus, activités). Consulter sites unis, forums, anciens. Prioriser passion + marché travail (secteurs porteurs : santé, agro, numérique, énergie).",
+        "metadata": {
+          "formation": "general",
+          "section": "criteres_choix"
+        }
+      },
+      {
+        "id": "chunk_orientation_insertion_pro",
+        "text": "Insertion Professionnelle : Prioriser établissements avec stages obligatoires (L3/Master), partenariats entreprises, services orientation/alumni. Secteurs porteurs 2025 : santé (médecine/pharma), agriculture durable, technologies numériques/IA, énergies renouvelables, gestion/finance. Taux emploi varie (publics > privés accrédités). Vérifier taux insertion via rapports MESRI/ANAQ-Sup.",
+        "metadata": {
+          "formation": "general",
+          "section": "insertion_pro"
+        }
+      },
+    {
+      "id": "chunk_general_vie_etudiante",
+      "text": "Vie étudiante Sénégal : quartiers Dakar (Point E dynamique, Ouakam calme/plages, Sacré-Cœur animé). Villes : Thiès, Saint-Louis. Logement varié, enseignement français (anglais secondaire).",
+      "metadata": {
+        "formation": "general",
+        "section": "vie_etudiante"
+      }
+    },
+    {
+        "id": "chunk_vie_etudiante_dakar_quartiers",
+        "text": "Quartiers étudiants populaires à Dakar près UCAD/FST : Point E (dynamique, bars/restaurants, vie nocturne active, proche campus) ; Ouakam (calme, proximité plages Corniche, loisirs, sécurisé) ; Sacré-Cœur (jeune/animé, bars/discothèques, parc Hann) ; Mermoz (chaleureux, accessible, commerces). Autres : Fann (résidentiel chic, vert), Amitié, Yoff/Grand Yoff (plus abordables). Avantages : proximité universités, ambiance étudiante. Inconvénients : loyers plus élevés dans quartiers centraux, trafic/n bruits.",
+        "metadata": {
+          "formation": "general",
+          "section": "vie_etudiante_quartiers_dakar"
+        }
+      },
+      {
+        "id": "chunk_vie_etudiante_logement_couts",
+        "text": "Logement étudiant Sénégal 2025 : Priorité campus COUD (plateforme campuscoud.ucad.sn) : chambres très abordables (3000-4000 FCFA/mois/personne, nouveaux bâtiments pour +10 000 places UCAD/ESP). Privé : colocation/chambre 60 000-120 000 FCFA/mois (quartiers huppés), moins en banlieue. Studio/appartement plus cher. Caution 2-3 mois. Chercher tôt via agences, Facebook/WhatsApp, sites (loger-dakar.com).",
+        "metadata": {
+          "formation": "general",
+          "section": "vie_etudiante_logement"
+        }
+      },
+      {
+        "id": "chunk_vie_etudiante_restauration",
+        "text": "Restauration universitaire (COUD) : repas subventionnés très abordables - Petit-déjeuner 50 FCFA, Déjeuner/Dîner 100 FCFA. Restaurants centraux UCAD, ESP, etc. Qualité/quantité améliorée via PPP. Hors campus : tanganas/dibiteries/fast-foods économiques (budget mensuel 50 000-80 000 FCFA si cuisine ou restos locaux).",
+        "metadata": {
+          "formation": "general",
+          "section": "vie_etudiante_restauration"
+        }
+      },
+      {
+        "id": "chunk_vie_etudiante_transports_budget",
+        "text": "Transports Dakar : Bus Dakar Dem Dikk (125-500 FCFA/trajet), cars rapides/taxis partagé (50-150 FCFA, économiques mais état variable). Budget vie étudiante mensuel : logement+repas+transports ~100 000-200 000 FCFA (abordable vs autres destinations). Inscription publique : 25 000 FCFA/an licence.",
+        "metadata": {
+          "formation": "general",
+          "section": "vie_etudiante_transports_budget"
+        }
+      },
+      {
+        "id": "chunk_vie_etudiante_autres_villes",
+        "text": "Vie étudiante hors Dakar : Thiès (UIDT, dynamique, aéroport proche, focus ingénierie/santé) ; Saint-Louis (UGB, cadre historique/côtier balnéaire, calme, logements ~3000-4000 FCFA/mois) ; Ziguinchor (UASZ, développement régional, culture Casamance, accès soins amélioré). Villes plus calmes, coûts inférieurs, proximité océan/nature.",
+        "metadata": {
+          "formation": "general",
+          "section": "vie_etudiante_autres_villes"
+        }
+      },
+      {
+        "id": "chunk_vie_etudiante_conseils_internationaux",
+        "text": "Conseils étudiants internationaux 2025 : Français <90 jours : passeport valide 6 mois (pas visa). >90 jours : carte résident. Enseignement français (anglais secondaire). Bourses : gouvernement sénégalais (sociales/académiques), internationales (France Excellence, AUF). Diplômes : comparabilité ENIC-NARIC France (90€). Communauté internationale riche, vie enrichissante.",
+        "metadata": {
+          "formation": "general",
+          "section": "vie_etudiante_conseils_internationaux"
+        }
+      }
+  ]
