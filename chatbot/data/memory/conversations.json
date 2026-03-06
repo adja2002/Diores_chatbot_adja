@@ -117,56 +117,6 @@
     {
       "role": "user",
       "content": "Bonjour",
-      "timestamp": "2026-02-26T10:45:17.742651"
-    },
-    {
-      "role": "assistant",
-      "content": "Pour continuer, j'ai besoin de connaître : votre sexe. Peux-tu me le fournir ?",
-      "timestamp": "2026-02-26T10:45:17.745391"
-    },
-    {
-      "role": "user",
-      "content": "J'ai fait la série S2",
-      "timestamp": "2026-02-26T10:45:17.749475"
-    },
-    {
-      "role": "assistant",
-      "content": "Pour continuer, j'ai besoin de connaître : votre sexe. Peux-tu me le fournir ?",
-      "timestamp": "2026-02-26T10:45:17.753621"
-    },
-    {
-      "role": "user",
-      "content": "J'ai 19 ans",
-      "timestamp": "2026-02-26T10:45:17.759991"
-    },
-    {
-      "role": "assistant",
-      "content": "Pour continuer, j'ai besoin de connaître : votre sexe. Peux-tu me le fournir ?",
-      "timestamp": "2026-02-26T10:45:17.764217"
-    },
-    {
-      "role": "user",
-      "content": "Mes notes: Math 14, SCPH 15, FR 12, AN 10, PHILO 11, SVT 13, HG 14",
-      "timestamp": "2026-02-26T10:45:17.771106"
-    },
-    {
-      "role": "assistant",
-      "content": "Pour continuer, j'ai besoin de connaître : votre sexe. Peux-tu me le fournir ?",
-      "timestamp": "2026-02-26T10:45:17.773842"
-    },
-    {
-      "role": "user",
-      "content": "je veux avoir des informations sur licence en BCGS ",
-      "timestamp": "2026-02-26T10:45:21.571727"
-    },
-    {
-      "role": "assistant",
-      "content": "Bien sûr ! La licence en BCGS (Biologie, Chimie, Géologie et Sciences de la Terre) à l'UCAD est une formation passionnante pour ceux qui aiment les sciences naturelles et les disciplines expérimentales.\n\nVoici ce que tu dois savoir :\n- **Contenu** : Tu étudieras la biologie, la chimie, la géologie et les sciences de la Terre, avec des cours théoriques et pratiques en laboratoire.\n- **Débouchés** : Cette licence ouvre des portes vers des masters en biologie, écologie, géologie, ou même des carrières dans la recherche, l'environnement, ou l'industrie.\n- **Prérequis** : Une bonne base en sciences (surtout en SVT et chimie) est un atout.\n\nSi tu veux savoir tes chances d'admission ou de réussite, je peux t'aider avec ça aussi ! Il te suffit de me dire si tu veux une prédiction personnalisée. 😊\n\nTu veux plus de détails sur un aspect en particulier ?",
-      "timestamp": "2026-02-26T10:45:21.587751"
-    },
-    {
-      "role": "user",
-      "content": "Bonjour",
       "timestamp": "2026-03-02T11:25:42.147158"
     },
     {
@@ -363,6 +313,78 @@
       "role": "assistant",
       "content": "Bien sûr ! Je peux t’aider à en savoir plus sur les formations en FST (Faculté des Sciences et Technologies) de l’UCAD. Voici un aperçu des principales formations proposées :\n\n1. **MPI (Mathématiques et Informatique)** : Parfait pour ceux qui aiment les maths et l’informatique. Tu apprendras des bases solides en algorithmique, programmation et mathématiques appliquées.\n\n2. **BCGS (Biologie, Chimie, Géologie et Sciences de la Terre)** : Idéal si tu es passionné par les sciences de la vie, la chimie ou la géologie. Tu étudieras la biologie moléculaire, la géologie, la chimie organique, etc.\n\n3. **PCSM (Physique, Chimie et Sciences des Matériaux)** : Pour ceux qui aiment la physique et la chimie. Tu exploreras les matériaux avancés, la physique quantique, la chimie des polymères, etc.\n\nChaque formation a ses spécificités, mais toutes te prépareront à des carrières dans la recherche, l’industrie ou l’enseignement.\n\nTu veux des détails sur une formation en particulier ? Ou peut-être que tu veux savoir quelles sont tes chances d’être admis dans l’une d’elles ? 😊",
       "timestamp": "2026-03-03T15:52:03.376381"
+    },
+    {
+      "role": "user",
+      "content": "Bonjour",
+      "timestamp": "2026-03-06T12:15:48.018647"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître : votre sexe. Peux-tu me le fournir ?",
+      "timestamp": "2026-03-06T12:15:48.031819"
+    },
+    {
+      "role": "user",
+      "content": "J'ai fait la série S2",
+      "timestamp": "2026-03-06T12:15:48.052889"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître : votre sexe. Peux-tu me le fournir ?",
+      "timestamp": "2026-03-06T12:15:48.060669"
+    },
+    {
+      "role": "user",
+      "content": "J'ai 19 ans",
+      "timestamp": "2026-03-06T12:15:48.101594"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître : votre sexe. Peux-tu me le fournir ?",
+      "timestamp": "2026-03-06T12:15:48.109177"
+    },
+    {
+      "role": "user",
+      "content": "Mes notes: Math 14, SCPH 15, FR 12, AN 10, PHILO 11, SVT 13, HG 14",
+      "timestamp": "2026-03-06T12:15:48.133833"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître : votre sexe. Peux-tu me le fournir ?",
+      "timestamp": "2026-03-06T12:15:48.139403"
+    },
+    {
+      "role": "user",
+      "content": "je veux avoir des informations sur les formations en fst ",
+      "timestamp": "2026-03-06T12:15:51.735359"
+    },
+    {
+      "role": "assistant",
+      "content": "Bien sûr ! Je peux t'aider à mieux comprendre les formations en Faculté des Sciences et Technologies (FST) de l'UCAD. Voici un aperçu des principales filières :\n\n1. **MPI (Mathématiques, Physique, Informatique)** : Parfait pour ceux qui aiment les maths, la physique et l'informatique. C'est un peu comme résoudre des énigmes toute la journée, mais avec des équations !\n\n2. **BCGS (Biologie, Chimie, Géologie, Sciences de la Terre)** : Si tu préfères les sciences de la vie, la chimie ou la géologie, cette filière est faite pour toi. Tu vas étudier des roches, des molécules et même des micro-organismes !\n\n3. **PCSM (Physique, Chimie, Sciences de la Matière)** : Ici, on explore la matière sous toutes ses formes. C'est un mélange de physique et de chimie, idéal pour ceux qui veulent comprendre comment fonctionne l'univers à petite échelle.\n\nTu as déjà mentionné que tu t'intéresses à la **L1 BCGS**, ce qui est un excellent choix si tu aimes les sciences de la vie et la chimie. Si tu veux des détails sur une formation en particulier ou savoir si tu as de bonnes chances d'être admis, n'hésite pas à demander ! 😊\n\n(Et si tu veux une prédiction personnalisée, dis-le-moi, et je te guiderai pour compléter ton profil si besoin.)",
+      "timestamp": "2026-03-06T12:15:51.741578"
+    }
+  ],
+  "+221780159052": [
+    {
+      "role": "user",
+      "content": "Bonjour",
+      "timestamp": "2026-03-06T12:05:35.167772"
+    },
+    {
+      "role": "assistant",
+      "content": "Pour continuer, j'ai besoin de connaître : votre série BAC (S1, S2 ou S3). Peux-tu me le fournir ?",
+      "timestamp": "2026-03-06T12:05:35.167772"
+    },
+    {
+      "role": "user",
+      "content": "Parler moi de l’ucad",
+      "timestamp": "2026-03-06T12:06:10.137084"
+    },
+    {
+      "role": "assistant",
+      "content": "Bien sûr ! L’Université Cheikh Anta Diop (UCAD) est la plus grande et la plus prestigieuse université du Sénégal, située à Dakar. Fondée en 1957, elle est un véritable phare de l’enseignement supérieur en Afrique francophone, avec des formations variées en sciences, lettres, droit, médecine, et bien plus encore.\n\nL’UCAD est organisée en plusieurs facultés et écoles, dont la Faculté des Sciences et Technologies (FST), qui propose des filières comme le Mathématiques et Physique Informatique (MPI), le Biochimie, Chimie et Géologie des Sciences (BCGS), et le Physique, Chimie et Sciences de la Matière (PCSM).\n\nTu veux en savoir plus sur une formation en particulier ? Ou peut-être que tu envisages de postuler et tu veux connaître tes chances ? 😊 Dis-moi tout !",
+      "timestamp": "2026-03-06T12:06:10.137084"
     }
   ]
 }
